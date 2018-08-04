@@ -1,0 +1,7 @@
+*.pyc
+.vscode
+.DS_Store
+db.sqlite3
+geckodriver.log
+Pipfile
+Pipfile.lock
