@@ -2,6 +2,7 @@
 .vscode
 .DS_Store
 db.sqlite3
+geckodriver
 geckodriver.log
 Pipfile
 Pipfile.lock
