@@ -1,5 +1,6 @@
 *.pyc
 *.code-workspace
+.idea
 .vscode
 .DS_Store
 db.sqlite3
