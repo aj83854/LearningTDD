@@ -5,5 +5,5 @@ Obey the Testing Goat: \
 TDD Using Django, Selenium, and JavaScript \
 *by Harry J.W. Percival*
 
-http://www.obeythetestinggoat.com\
+http://www.obeythetestinggoat.com/
 ___________________________________
