@@ -1,6 +1,3 @@
-### Project files for:
-To-Do list \
-(*Django 1.11*)
 __________________________________
 ### Code along project using:
 **Test-Driven Development with Python** \
