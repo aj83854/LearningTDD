@@ -92,7 +92,7 @@ class NewVisitorTest(LiveServerTestCase):
         self.assertNotIn('Shave Sammy and Clyde', page_text)
 
         # Tony starts a new list by entering a new item...
-        inputbox = self.browser.find_elements_by_id('id_new_item')
+        inputbox = self.browser.find_element_by_id('id_new_item')
         inputbox.send_keys('Buy milk')
         inputbox.send_keys(Keys.ENTER)
         self.wait_for_row_in_list_table('1: Buy milk')
