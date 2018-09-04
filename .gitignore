@@ -8,3 +8,4 @@ geckodriver
 geckodriver.log
 Pipfile
 Pipfile.lock
+/static
